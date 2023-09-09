@@ -1,0 +1,23 @@
+button{
+    background-color: brown !important;
+    border-color: black !important;
+    border-radius: 20px !important;
+    padding: 0;
+}
+
+h1{
+    color: brown;
+}
+
+.div1-container{
+    border-radius: 50px;
+    border: solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    background-color: lightslategray;
+    margin-top: 70px;
+}
+
+
